@@ -1,12 +1,12 @@
 {
-  "name": "minefort-bot",
+  "name": "minecraft-bot",
   "version": "1.0.0",
+  "description": "24/7 Minecraft bot for crossstraight.minefort.com",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "mineflayer": "^4.6.1",
-    "express": "^4.18.2"
+    "mineflayer": "^4.14.0"
   }
 }
